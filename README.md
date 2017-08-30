@@ -1,5 +1,5 @@
-# mentogdut
-广东工业大学校园网第三方客户端 a third-party client of Dr.COM 5.2.1(p) for gdut 
+# Dr.COM 5.2.1(p)
+A third-party client of Dr.COM 5.2.1(p) for JGSU
 
 # background
 the official drcom client has many limitations which may disturb us a lot, for example,  
@@ -12,10 +12,10 @@ the official drcom client has many limitations which may disturb us a lot, for e
 In a word, mentogdut is a workaround of these.  
 
 # feedback
-有问题请加QQ群331339427( At this time, we only provide support in the Chinese language. )  
+有问题请加QQ群207097104( At this time, we only provide support in the Chinese language. )  
 
 # download
-Please visit our website http://gdutwifi.cf/  
+Please visit our website http://null/  
 
 # reference
 [drcom-generic][1]  
